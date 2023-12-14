@@ -1,15 +1,19 @@
 # Expression_Evaluator_with_Unlimited_digits
 This tool helps us to evaluate an expression with the unlimited number and represent variables in rational i.e. p/q form.
+
+
 <p>
   <l>Using this tool, you can compute infinite numbers for certain types of expressions.</l><br>
-  <l>I have developed this during my Course of COL106 using multiple data structures like Binary Search Tree (For variable storage) and stacks for expression evaluation. </l>
+ I have developed this during my Course in COL106 using multiple data structures like **Binary Search** Tree (For variable storage) and **stacks** for expression evaluation.
+  Also all the used Data Structure **Developed from scratch**.
 </p>
 
 Requirements :=
 <ol>
-  <li>1). Linux-based environment.</li>
-  <li>2.)g++ or any c++ compiler </li>
+  <li> Linux-based environment.</li>
+  <li> g++ or any c++ compiler </li>
 </ol>
+
 ## Getting Started :
 Clone this repo by using the bash command:=
 
